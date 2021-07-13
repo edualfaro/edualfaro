@@ -5,6 +5,12 @@ Working on my **readme.md** :vulcan_salute::vulcan_salute::vulcan_salute:
 I will send to you a mail to _applications@hackyourfuture.be_ befone deadline, when all the steps of your TECHNICAL ASSIGNMENT have been completed.
 Thank you so much!
 
+```javascript
+<script>
+  console.log("uhmmmmm... working on it!");
+</script>
+```
+
 <!--
 **edualfaro/edualfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
