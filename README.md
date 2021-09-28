@@ -1,6 +1,5 @@
 # Hi there 👋
 Working on my **readme.md** :vulcan_salute::vulcan_salute::vulcan_salute:
-# People from ![Hack Your Future](https://www.tnbcenter.com/hyf.png)
 
 ```javascript
 <script>
