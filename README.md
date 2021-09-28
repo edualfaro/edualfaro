@@ -2,12 +2,9 @@
 Working on my **readme.md** :vulcan_salute::vulcan_salute::vulcan_salute:
 # People from ![Hack Your Future](https://www.tnbcenter.com/hyf.png)
 
-I will send to you a mail to _applications@hackyourfuture.be_ befone deadline, when all the steps of your TECHNICAL ASSIGNMENT have been completed.
-Thank you so much!
-
 ```javascript
 <script>
-  console.log("uhmmmmm... working on it!");
+  console.log("uhmmmmm... almost ready!");
 </script>
 ```
 
